@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Guillaume, a computer science student at EPITA and a passionate developer with a strong focus on backend, infrastructure, and security.<br>I'm particularly interested in designing robust APIs, and secure authentication systems, with real-world experience deploying containerized applications with Docker, Kubernetes, and AWS.<br><br>💡 I'm always curious to learn more, contribute to meaningful projects, and collaborate with passionate teams.
+👋 Hi there! I'm Guillaume, a computer science student at EPITA and a passionate developer with a strong focus on backend, infrastructure, and security.<br>I'm particularly interested in designing robust APIs, and secure authentication systems, with real-world experience deploying containerized applications with Docker, and AWS.<br><br>💡 I'm always curious to learn more, contribute to meaningful projects, and collaborate with passionate teams.
 
 
 ## 🌐 Socials:
